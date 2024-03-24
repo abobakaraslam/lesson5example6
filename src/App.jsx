@@ -11,6 +11,9 @@ function App() {
       <h1 className="bg-black text-white hover:sm:bg-yellow-800 hover:lg:bg-cyan-700">
         hover:sm:
       </h1>
+      <button className="bg-blue-700 text-white hover:bg-green-700">
+        My Button
+      </button>
     </div>
   );
 }
